@@ -10,6 +10,7 @@ Challenging difficult level:
 Hard difficulty level:
 
 Medium difficulty level:
+- [Readability Score](https://github.com/JungHo-1231/hyperskill-java-track/tree/main/medium/readability)
 
 Easy difficult level:
 - [Cinema Room Manager](https://github.com/JungHo-1231/hyperskill-java-track/tree/main/easy/CinemaRoomManager)
