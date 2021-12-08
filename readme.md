@@ -14,3 +14,4 @@ Medium difficulty level:
 
 Easy difficult level:
 - [Cinema Room Manager](https://github.com/JungHo-1231/hyperskill-java-track/tree/main/easy/CinemaRoomManager)
+- [Simple Chatty Bot](https://github.com/JungHo-1231/hyperskill-java-track/tree/main/easy/Simple-Chatty-Bot)
